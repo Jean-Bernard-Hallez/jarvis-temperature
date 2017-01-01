@@ -2,7 +2,7 @@
 # Exemple:
 # relev_Tem_url="http://192.168.0.13:8080"
 
-relev_Tem_url="http://JB:Positif13@78.206.93.225:8080"
+relev_Tem_url="http://192.168.0.13:8080"
 
 
 Temp_piece='{ "devices":[
