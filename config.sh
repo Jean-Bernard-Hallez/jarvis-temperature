@@ -4,7 +4,6 @@
 
 relev_Tem_url="http://192.168.0.13:8080"
 
-
 Temp_piece='{ "devices":[
     { "name": "chambre", "address": "1"},
     { "name": "salle de bain", "address": "638"},
